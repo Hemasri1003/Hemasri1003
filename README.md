@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemasri1003&label=Profile%20views&color=0e75b6&style=flat" alt="hemasri1003" /> </p>
 
-- 🔭 I’m currently working on **Ride Connect**
+- 🔭 I’m currently working on **Employee Management Website**
 
-- 🌱 I’m currently learning **Django, Backend**
+- 🌱 I’m currently learning **DSA,Java and MERN stack**
 
 - 📫 How to reach me **hemasribandari@gmail.com**
 
