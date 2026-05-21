@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Hemasri Bandari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi , I'm Hemasri Bandari</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemasri1003&label=Profile%20views&color=0e75b6&style=flat" alt="hemasri1003" /> </p>
 
-- 🔭 I’m currently working on **Employee Management Website**
+-  I’m currently learning **DSA,Java,MERN stack and Machine learning**
 
-- 🌱 I’m currently learning **DSA,Java and MERN stack**
-
-- 📫 How to reach me **hemasribandari@gmail.com**
+-  How to reach me **hemasribandari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
